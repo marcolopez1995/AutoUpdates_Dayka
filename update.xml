@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.0.0.4</version>
+		<version>1.0.0.5</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Dayka/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>24ea81ce344353fb01b42e424e1c7f27</md5>
-		<description> &#xA; => WHAT'S NEW (As of May 22, 2024 @ 2PM) &#xA;&#xA;1. Enhanced system functionality.</description>
+		<md5>f6eda34ba7bf01dea79abd58c3cd2d56</md5>
+		<description> &#xA; => WHAT'S NEW (As of May 23, 2024 @ 8AM) &#xA;&#xA;1. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
